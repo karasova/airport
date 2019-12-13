@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Plane</string>
+    <string-array name="airport_name">
+        <item>IKT</item>
+        <item>MOW</item>
+        <item>UFA</item>
+        <item>LED</item>
+        <item>PEE</item>
+        <item>SCW</item>
+        <item>SVX</item>
+        <item>VVO</item>
+    </string-array>
+</resources>
